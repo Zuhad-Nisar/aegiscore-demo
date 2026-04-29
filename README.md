@@ -71,11 +71,11 @@ Digital logbook replacing paper DOBs — timestamped entries, severity levels, h
   <img src="screenshots/05-daily-occurrence-book.png" alt="Daily Occurrence Book" width="700" />
 </p>
 
-### Admin Panel — Full Platform Management
-Users, clients, sites, payroll, invoicing, SIA licences, documents, vetting, scheduling, and more — all in one sidebar.
+### Shift Planner — AI-Assisted Scheduling
+Weekly planner with officer assignments, unfilled slot detection, compliance badges (DBS, Fire Marshal, First Aid), and AI auto-fill.
 
 <p align="center">
-  <img src="screenshots/06-admin-panel.png" alt="Admin Panel" width="700" />
+  <img src="screenshots/06-shift-planner.png" alt="Shift Planner" width="700" />
 </p>
 
 ### Officer Portal — Field Operations
@@ -83,6 +83,13 @@ Officers see their briefing, clock in/out with geofencing, upload SIA documents,
 
 <p align="center">
   <img src="screenshots/07-officer-portal.png" alt="Officer Portal" width="700" />
+</p>
+
+### Director Dashboard — Operations Overview
+Live KPIs with critical alerts, SIA licence expiry, incident tracking, revenue, compliance scores, and daily briefing.
+
+<p align="center">
+  <img src="screenshots/08-director-dashboard-v2.png" alt="Director Dashboard" width="700" />
 </p>
 
 ---
